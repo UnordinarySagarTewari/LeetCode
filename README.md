@@ -1,3 +1,3 @@
 # LeetCode
-My LeetCode Journey
-Uploading <emp>my solutions<emp> to leetcode problems that I solve.
+My LeetCode Journey<br>
+Uploading <i>my solutions</i> to leetcode problems that I solve.
